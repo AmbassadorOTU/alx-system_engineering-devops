@@ -9,3 +9,4 @@
 7-movethatfile: move file betty to directory in /tmp/
 8-firstdelete: delete the betty file in /tmp/ directory
 9-firstdirdeletion: delete directory in tmp/ directory
+10-back: make previous directory working directory
