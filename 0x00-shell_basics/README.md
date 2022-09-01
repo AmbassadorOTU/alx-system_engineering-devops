@@ -7,3 +7,4 @@
 5-listfilesdigitonly: display current directory with user and group id in digits
 6-firstdirectory: create directory in tmp/ directory
 7-movethatfile: move file betty to directory in /tmp/
+8-firstdelete: delete the betty file in /tmp/ directory
