@@ -13,3 +13,4 @@
 11-list: list contents in current, current parent and boot directory in long format
 12-file_type: print type of file in /tmp directory
 14-copy_html: copy html files from working directory to parent of working directory
+13-symbolic_link: create symbolic link in /bin/ls
