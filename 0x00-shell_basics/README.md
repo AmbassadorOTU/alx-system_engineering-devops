@@ -6,3 +6,4 @@
 4-listmorefiles: display current directory contents plus hidden files
 5-listfilesdigitonly: display current directory with user and group id in digits
 6-firstdirectory: create directory in tmp/ directory
+7-movethatfile: move file betty to directory in /tmp/
