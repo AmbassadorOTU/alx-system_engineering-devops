@@ -3,3 +3,4 @@
 3-new_owner: change file ownership to betty
 2-groups: print user groups
 4-empty: create empty file
+5-execute: grant user execute permission
