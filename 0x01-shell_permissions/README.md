@@ -4,3 +4,4 @@
 2-groups: print user groups
 4-empty: create empty file
 5-execute: grant user execute permission
+6-multiple_permissions: grant user and group user executable permission
