@@ -6,3 +6,4 @@
 5-execute: grant user execute permission
 6-multiple_permissions: grant user and group user executable permission
 7-everybody: grant executable permission to everyone
+8-James_Bond: james bond permission
