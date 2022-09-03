@@ -11,3 +11,4 @@
 12-directory_permissions: create directory and set permissions
 13-change_group: change user group
 11-directories_permissions: grant all subdirectories execute permission
+10-mirror_permissions: grant two users same permission
