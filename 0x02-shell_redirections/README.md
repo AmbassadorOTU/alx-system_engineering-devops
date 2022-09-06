@@ -3,3 +3,4 @@
 2 - let's display a file
 3 - display contents of two files
 4 - display last 10 lines
+5 - display last 10 lines of a file
