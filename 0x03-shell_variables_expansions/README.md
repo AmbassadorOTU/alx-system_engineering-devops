@@ -4,3 +4,4 @@
 paths
 4 - env variables
 print local variables
+set local variable
