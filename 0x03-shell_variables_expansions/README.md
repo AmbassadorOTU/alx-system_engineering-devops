@@ -11,3 +11,4 @@ set global variable
 10 - love is anterior to life
 11 - binary conversion
 12 - combinations
+13 - print float
