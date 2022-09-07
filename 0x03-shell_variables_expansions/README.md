@@ -3,3 +3,4 @@
 2 - path
 paths
 4 - env variables
+print local variables
