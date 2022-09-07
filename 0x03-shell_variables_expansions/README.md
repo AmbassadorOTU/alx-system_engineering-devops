@@ -10,3 +10,4 @@ set global variable
 9 - divide and rule
 10 - love is anterior to life
 11 - binary conversion
+12 - combinations
