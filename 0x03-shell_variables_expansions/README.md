@@ -6,3 +6,4 @@ paths
 print local variables
 set local variable
 set global variable
+8 - addition with env variable
