@@ -8,3 +8,4 @@ set local variable
 set global variable
 8 - addition with env variable
 9 - divide and rule
+10 - love is anterior to life
